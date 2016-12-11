@@ -2,4 +2,4 @@
 Relax Your Eyes
 
 
-![screenshot](stonedreamforest/x64dbg_theme_RelaxYourEyes/blob/master/1.png)
+![screenshot](https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes/blob/master/1.png)
