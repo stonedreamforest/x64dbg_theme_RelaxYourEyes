@@ -6,8 +6,13 @@ Relax Your Eyes
 
 
 Latest release:2016-12-30
-show:https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes/issues/1
---------------------------
+![screenshot1](https://cloud.githubusercontent.com/assets/16742566/21560590/83094a3a-ce9c-11e6-8936-aac5444415ff.gif)
+
+
+
+
+
+--------------------first release--------------------
 ![screenshot1](https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes/blob/master/1.png)
 
 ![screenshot2](https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes/blob/master/2.png)
