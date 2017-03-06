@@ -5,7 +5,7 @@ Relax Your Eyes
 
 
 
-Latest release:2017-2-26
+Latest release:2017-3-6
 ![screenshot1](https://github.com/stonedreamforest/x64dbg_theme_RelaxYourEyes/blob/master/GIF.gif)
 
 
